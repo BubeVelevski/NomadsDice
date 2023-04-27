@@ -10,6 +10,11 @@
 
 }
 
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
 body {
   background-color: #3a3f44;
 }
@@ -32,11 +37,18 @@ img {
   width: 80%;
 }
 
+.refresh {
+  color: #911111;
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin: 0% auto;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  text-decoration: none;
-  color: #fff;
+  margin-left: 40%;
+  margin-right: 40%;
 }
