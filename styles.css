@@ -22,11 +22,6 @@ h1 {
   color: #ce6d1e;
 }
 
-a {
-  text-decoration: none;
-  color: #fff;
-}
-
 p {
   font-size: 2rem;
   color: #b35619;
@@ -42,5 +37,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
+  text-decoration: none;
+  color: #fff;
 }
